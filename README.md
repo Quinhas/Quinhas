@@ -1,11 +1,11 @@
 ## 👋 Olá, seja bem-vindo!
-👨‍💻 Meu nome é Lucas Santana, tenho 19 anos e estou no 5º semestre de Sistemas de Informação na [UNIVEM](https://www.univem.edu.br/).
+👨‍💻 Meu nome é Lucas Santana, tenho 19 anos e atualmente estou no 6º semestre de Sistemas de Informação na [UNIVEM](https://www.univem.edu.br/).
 
 ## 🚀 Skills:
-- [Ionic](https://ionicframework.com/)
 - [ReactJS](https://reactjs.org/)
 - [NextJS](https://nextjs.org/)
 - [TypeScript](https://www.typescriptlang.org/)
+- [Ionic](https://ionicframework.com/)
 - HTML, CSS, JS, SCSS
 - [NodeJS](https://nodejs.org/en/)
 - [Express](https://expressjs.com/)
