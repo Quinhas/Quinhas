@@ -1,5 +1,5 @@
 ## 👋 Olá, seja bem-vindo!
-👨‍💻 Meu nome é Lucas Santana, tenho 19 anos e atualmente estou no 6º semestre de Sistemas de Informação na [UNIVEM](https://www.univem.edu.br/).
+👨‍💻 Meu nome é Lucas Santana, tenho 20 anos e atualmente estou no 6º semestre de Sistemas de Informação na [UNIVEM](https://www.univem.edu.br/).
 
 ## 🚀 Skills:
 - [ReactJS](https://reactjs.org/)
