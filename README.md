@@ -1,16 +1,18 @@
 ## 👋 Olá, seja bem-vindo!
-👨‍💻 Meu nome é Lucas Santana, tenho 20 anos e atualmente estou no 6º semestre de Sistemas de Informação na [UNIVEM](https://www.univem.edu.br/).
+👨‍💻 Meu nome é Lucas Santana, tenho 20 anos e atualmente estou no 7º semestre de Sistemas de Informação na [UNIVEM](https://www.univem.edu.br/).
 
 ## 🚀 Skills:
 - [ReactJS](https://reactjs.org/)
 - [NextJS](https://nextjs.org/)
 - [TypeScript](https://www.typescriptlang.org/)
 - [Ionic](https://ionicframework.com/)
+- [PHP](https://www.php.net/)
 - HTML, CSS, JS, SCSS
 - [NodeJS](https://nodejs.org/en/)
 - [Express](https://expressjs.com/)
 - [MySQL](https://www.mysql.com/)
 - [Firebase](https://firebase.google.com/)
+- [Firebird](https://firebirdsql.org/)
 
 ## 📞 Contato:
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/quinhaas/)
