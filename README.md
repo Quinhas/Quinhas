@@ -1,9 +1,8 @@
 ## 👋 Olá, seja bem-vindo!
-👨‍💻 Meu nome é Lucas Santana, tenho 20 anos e atualmente estou no 7º semestre de Sistemas de Informação na [UNIVEM](https://www.univem.edu.br/).
+👨‍💻 Meu nome é Lucas Santana, tenho 20 anos e atualmente estou no 8º semestre de Sistemas de Informação na [UNIVEM](https://www.univem.edu.br/).
 
 ## 🚀 Skills:
 - [ReactJS](https://reactjs.org/)
-- [NextJS](https://nextjs.org/)
 - [TypeScript](https://www.typescriptlang.org/)
 - [Ionic](https://ionicframework.com/)
 - [PHP](https://www.php.net/)
