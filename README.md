@@ -1,5 +1,5 @@
 ## 👋 Olá, seja bem-vindo!
-👨‍💻 Meu nome é Lucas Santana, tenho 22 anos e sou Bacharel em Sistemas de Informação.
+👨‍💻 Meu nome é Lucas Santana, tenho 23 anos e sou Bacharel em Sistemas de Informação.
 
 ## 🚀 Skills:
 - [ReactJS](https://reactjs.org/)
